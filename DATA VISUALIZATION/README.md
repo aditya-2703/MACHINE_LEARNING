@@ -1,6 +1,7 @@
-# Data Visualization With Matplotlib and Seaborn
+# Web Scraping
+
 
 <p align="center">
-  <img src="https://i.imgur.com/9i806Rh.png">
+  <img src="https://editor.analyticsvidhya.com/uploads/75676cover.jfif">
 </p>
   
