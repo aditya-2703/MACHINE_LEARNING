@@ -1,7 +1,7 @@
 # MACHINE_LEARNING
 
-<p align="center" width=200>
-  <img src="https://user-images.githubusercontent.com/66458303/133468526-1a8126b7-a549-4eda-8df5-3219f804b1a8.png">
+<p align="center">
+  <img width="200px" src="https://user-images.githubusercontent.com/66458303/133468526-1a8126b7-a549-4eda-8df5-3219f804b1a8.png">
 </p>
 
 
