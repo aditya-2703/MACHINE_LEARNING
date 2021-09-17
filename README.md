@@ -12,4 +12,5 @@ This repo consists of basic machine learning related algorithms and related proj
   * [HAND-DIGIT-RECOG](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/KNN-CLASSIFICATION/Hand_digit)
   * [FACE-DETECTION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/KNN-CLASSIFICATION/FACE_DETECTION)
   * [FACE-RECOGNITION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/KNN-CLASSIFICATION/FACE-RECOGNITION)
+  * [MOOD-RECOGNITION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/KNN-CLASSIFICATION/MOOD_DETECTION)
 * [K MEAN CLUSTER](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/K-MEAN%20CLUSTER)
