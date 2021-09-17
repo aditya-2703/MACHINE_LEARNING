@@ -1,0 +1,8 @@
+Mood recognition - 
+    -Creating Data 
+        - Mood detection
+            - shape predicter 68 dat file
+        - Giving label
+            - lable as input of mood name
+    -Loading Data to model(Knn)
+    -Predict Data
