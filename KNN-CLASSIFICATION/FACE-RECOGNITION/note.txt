@@ -1,0 +1,8 @@
+Face recognition - 
+    -Creating Data 
+        - Face detection
+            - cascadeclassifier
+        - Giving label
+            - lable as input of person name
+    -Loading Data to model(Knn)
+    -Predict Data
