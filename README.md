@@ -14,3 +14,6 @@ This repo consists of basic machine learning related algorithms and related proj
   * [FACE-RECOGNITION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/KNN-CLASSIFICATION/FACE-RECOGNITION)
   * [MOOD-RECOGNITION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/KNN-CLASSIFICATION/MOOD_DETECTION)
 * [K MEAN CLUSTER](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/K-MEAN%20CLUSTER)
+* [LINEAR REGRESSION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/LINEAR-REGRESSION)
+  * [HOME PRICE PREDICTION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/LINEAR-REGRESSION/HOME%20PRICE%20PREDICTION)
+  * [INCOME PREDICTION](https://github.com/aditya-2703/MACHINE_LEARNING/tree/main/LINEAR-REGRESSION/INCOME%20PREDICTION) 
